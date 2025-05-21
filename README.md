@@ -1,14 +1,30 @@
-# 💫 About Me:
-Hi there 👋<br>I'm Eruotor Noel Jr., a passionate JavaScript and React developer with a keen interest in networking technologies. I love exploring the ever-evolving world of web development and the underlying network structures that make it all possible. Here's a bit about me:<br><br>🔭 What I'm Working On<br>Building dynamic web applications using React and JavaScript.<br>Enhancing my understanding of network protocols, HTTP/HTTPS, and RESTful APIs.<br><br>🌱 What I'm Learning<br>React.Js, Next.Js and advanced web development concepts.<br>Deep dive into networking concepts such as TCP/IP, DNS, and CDN.<br>Improving my backend skills with Node.js and Express.<br><br>🛠️ Technologies I Work With<br>Frontend: HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS<br>Backend: Node.js, Express.js<br><br>🚀 I’m Interested In<br>Building scalable web applications.<br>Improving network efficiency in web development.<br>Contributing to open-source projects related to JavaScript or networking.<br><br>📫 Get In Touch<br>Email: noeleruotor23@gmail.com<br>LinkedIn: www.linkedin.com/in/noel-eruotor-7b7210316
+# ⚡ Eruotor Noel Jr. 
 
+**📍 Location:** *Abuja, FCT*  
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eruotornoel.jr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eruotor Noel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/noel_jr23) 
+Hi! My name is Eruotor Noel Jr. I am an intermediate web developer eager to learn and adapt to new technologies. I specialize in building responsive and dynamic web applications. I'm passionate about clean design, writing efficient code, and leveraging modern tools and frameworks to bring ideas to life. Whether working on frontend designs or backend systems, I aim to deliver high-quality results while continuously improving my skills.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Let us work together to create something extraordinary!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=noeljr2306&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### My tech stack includes:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" title="Framer Motion" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" title="Three.js" />
+
+---
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-eruotor-7b7210316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/noel.jr00?igsh=MTl4NXVpa2JuMHc2MQ==)
